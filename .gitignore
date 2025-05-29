@@ -3,6 +3,7 @@
 *.pyo
 *.pyd
 *.idea/
+python_selenium_course_material/
 __pycache__/
 *.py[cod]
 *$py.class
